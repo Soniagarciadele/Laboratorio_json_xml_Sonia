@@ -1,0 +1,134 @@
+{
+    "Supermercados":[
+    {
+        "nombre": "Mercadona",
+        "direccion":"Calle de Fuencarral 77, Madrid",
+        "geolocalizacion":[
+            "40º 25' 30.6 N",
+            "3º 42' 4.7 O"
+        ],
+        "productos": [
+           {
+            "nombre": "pan",
+            "perecedero": true,
+            "unidad":1,
+            "unidad de medida": "gramo",
+            "oferta": false,
+            "precio": 0.90,
+            "consumo-habitual": true,
+            "vigencia": "05-07-2023",
+            "adquirido": true
+           }, 
+           {
+            "nombre": "leche",
+            "perecedero": true,
+            "unidad":6,
+            "unidad de medida": "litro",
+            "oferta": false,
+            "precio": 6.75,
+            "consumo-habitual": true,
+            "vigencia": "25-06-2023",
+            "adquirido": false
+           }, 
+           {
+            "nombre": "arroz",
+            "perecedero": false,
+            "unidad":1,
+            "unidad de medida": "kilo",
+            "oferta": true,
+            "precio": 0.90,
+            "consumo-habitual": false,
+            "vigencia": "25-06-2024",
+            "adquirido": true
+           } 
+        ]      
+    },
+    {
+        "nombre": "Lidl",
+        "direccion":" Pl. de Tirso de Molina 16, Madrid",
+        "geolocalizacion":[
+            "40º 24' 45.3 N",
+            "3º 42' 16 O"
+        ],
+        "productos": [
+           {
+            "nombre": "pan",
+            "perecedero": true,
+            "unidad":1,
+            "unidad de medida": "gramo",
+            "oferta": false,
+            "precio": 0.75,
+            "consumo-habitual": true,
+            "vigencia": "05-07-2023",
+            "adquirido": false
+           },
+           {
+            "nombre": "leche",
+            "perecedero": true,
+            "unidad":6,
+            "unidad de medida": "litro",
+            "oferta": true,
+            "precio": 4.75,
+            "consumo-habitual": true,
+            "vigencia": "25-06-2023",
+            "adquirido": true
+           }, 
+           {
+            "nombre": "arroz",
+            "perecedero": false,
+            "unidad":1,
+            "unidad de medida": "kilo",
+            "oferta": false,
+            "precio": 0.99,
+            "consumo-habitual": false,
+            "vigencia": "25-06-2024",
+            "adquirido": false
+           }
+        ]              
+    },
+    {
+        "nombre": "BM",
+        "direccion":"Calle de Ros de Olano 3, Madrid",
+        "geolocalizacion":[
+            "40º 26' 40.4 N",
+            "3º 40' 19.9 O"
+        ],
+        "productos": [
+           {
+            "nombre": "pan",
+            "perecedero": true,
+            "unidad":1,
+            "unidad de medida": "gramo",
+            "oferta": false,
+            "precio": 0.85,
+            "consumo-habitual": true,
+            "vigencia": "05-07-2023",
+            "adquirido": false
+           }, 
+           {
+            "nombre": "leche",
+            "perecedero": true,
+            "unidad":6,
+            "unidad de medida": "litro",
+            "oferta": false,
+            "precio": 6.00,
+            "consumo-habitual": true,
+            "vigencia": "25-06-2023",
+            "adquirido": false
+           },
+           {
+            "nombre": "arroz",
+            "perecedero": false,
+            "unidad":1,
+            "unidad de medida": "kilo",
+            "oferta": false,
+            "precio": 1.90,
+            "consumo-habitual": false,
+            "vigencia": "25-06-2024",
+            "adquirido": false
+           } 
+
+        ]              
+    }
+]
+}

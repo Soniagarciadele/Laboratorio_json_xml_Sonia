@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Supermercados>
+    <Supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>Calle de Fuencarral 77, Madrid</direccion>
+        <geolocalizacion>
+            <norte>40º 25' 30.6</norte>
+            <sur></sur>
+            <este></este>
+            <oeste>3º 42' 4.7 O</oeste>
+        </geolocalizacion>
+        <productos>
+            <producto>
+             <nombre>pan</nombre>
+             <perecedero>true</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>gramo</unidad de medida>
+             <oferta>false</oferta>
+             <precio>0.9</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>05-07-2023</vigencia>
+             <adquirido>true</adquirido>
+         </producto>
+         <producto>
+             <nombre>leche</nombre>
+             <perecedero>true</perecedero>
+             <unidad>6</unidad>
+             <unidad de medida>litro</unidad de medida>
+             <oferta>false</oferta>
+             <precio>6.75</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>25-06-2023</vigencia>
+             <adquirido>false</adquirido>
+         </producto>
+         <producto>
+             <nombre>arroz</nombre>
+             <perecedero>false</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>kilo</unidad de medida>
+             <oferta>true</oferta>
+             <precio>0.9</precio>
+             <consumo-habitual>false</consumo-habitual>
+             <vigencia>25-06-2024</vigencia>
+             <adquirido>true</adquirido>
+         </producto>
+     </productos>   
+  </Supermercado>
+  <Supermercado>
+         <nombre>Lidl</nombre>
+         <direccion> Pl. de Tirso de Molina 16, Madrid</direccion>
+         <geolocalizacion>40º 24' 45.3 N</geolocalizacion>
+         <geolocalizacion>3º 42' 16 O</geolocalizacion>
+         <productos>
+          <producto>
+             <nombre>pan</nombre>
+             <perecedero>true</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>gramo</unidad de medida>
+             <oferta>false</oferta>
+             <precio>0.75</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>05-07-2023</vigencia>
+             <adquirido>false</adquirido>
+          </producto>
+          <producto>
+             <nombre>leche</nombre>
+             <perecedero>true</perecedero>
+             <unidad>6</unidad>
+             <unidad de medida>litro</unidad de medida>
+             <oferta>true</oferta>
+             <precio>4.75</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>25-06-2023</vigencia>
+             <adquirido>true</adquirido>
+          </producto>
+          <producto>
+             <nombre>arroz</nombre>
+             <perecedero>false</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>kilo</unidad de medida>
+             <oferta>false</oferta>
+             <precio>0.99</precio>
+             <consumo-habitual>false</consumo-habitual>
+             <vigencia>25-06-2024</vigencia>
+             <adquirido>false</adquirido>
+         </producto>
+        </productos>
+    </Supermercado>
+    <Supermercado>
+         <nombre>BM</nombre>
+         <direccion>Calle de Ros de Olano 3, Madrid</direccion>
+         <geolocalizacion>40º 26' 40.4 N</geolocalizacion>
+         <geolocalizacion>3º 40' 19.9 O</geolocalizacion>
+         <productos>
+          <producto>
+             <nombre>pan</nombre>
+             <perecedero>true</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>gramo</unidad de medida>
+             <oferta>false</oferta>
+             <precio>0.85</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>05-07-2023</vigencia>
+             <adquirido>false</adquirido>
+         </producto>
+         <producto>
+             <nombre>leche</nombre>
+             <perecedero>true</perecedero>
+             <unidad>6</unidad>
+             <unidad de medida>litro</unidad de medida>
+             <oferta>false</oferta>
+             <precio>6</precio>
+             <consumo-habitual>true</consumo-habitual>
+             <vigencia>25-06-2023</vigencia>
+             <adquirido>false</adquirido>
+         </producto>
+         <producto>
+             <nombre>arroz</nombre>
+             <perecedero>false</perecedero>
+             <unidad>1</unidad>
+             <unidad de medida>kilo</unidad de medida>
+             <oferta>false</oferta>
+             <precio>1.9</precio>
+             <consumo-habitual>false</consumo-habitual>
+             <vigencia>25-06-2024</vigencia>
+             <adquirido>false</adquirido>
+         </producto>
+        </productos>
+    </supermercado>
+</supermercados>
